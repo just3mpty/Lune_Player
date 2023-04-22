@@ -163,7 +163,7 @@ p {
   color: #ffc300;
 }
 .rotate {
-  animation: rotation 8s infinite linear;
+  animation: rotation 10s infinite linear;
 }
 @keyframes rotation {
   from {
